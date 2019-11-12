@@ -1,0 +1,4 @@
+[debug] [2019-09-22T23:21:06.268Z] ----------------------------------------------------------------------
+[debug] [2019-09-22T23:21:06.474Z] ! auto-auth error: Could not load the default credentials. Browse to https://developers.google.com/accounts/docs/application-default-credentials for more information.
+[debug] [2019-09-22T23:21:12.262Z] ----------------------------------------------------------------------
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again.
